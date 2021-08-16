@@ -1,0 +1,11 @@
+name: HideAndSeek
+version: 1.0
+main: nl.rubixstudios.hideandseek.EventHAS
+author: Rubix Studios
+commands:
+  chat:
+    description: Chat command
+    usage: /chat
+  toggleGame:
+    description: toggle game activate
+    usage: /toggleGame
